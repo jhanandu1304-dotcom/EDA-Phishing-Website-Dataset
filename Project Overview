@@ -1,0 +1,34 @@
+This project focuses on performing Exploratory Data Analysis (EDA) on a phishing website detection dataset. The objective was to understand the dataset structure, identify patterns and relationships among features, detect outliers and anomalies, analyze distributions, and generate actionable insights for future machine learning applications.
+
+Tools & Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Project Tasks
+Data Understanding and Exploration
+Descriptive Statistical Analysis
+Missing Value Analysis
+Duplicate Record Detection
+Distribution Analysis
+Skewness Analysis
+Outlier Detection using Boxplots
+Correlation Analysis
+Heatmap Visualization
+Pair Plot Analysis
+Class Imbalance Analysis
+Insights and Recommendations
+Key Findings
+The dataset contains 11,430 website records and 89 features.
+No missing values or duplicate records were found.
+The target variable is perfectly balanced between phishing and legitimate websites.
+Several URL-based features exhibit positive skewness and significant outliers.
+Correlation analysis revealed both independent and highly correlated features.
+URL structure characteristics play an important role in phishing website identification.
+
+
+The EDA process provided valuable insights into phishing website characteristics and confirmed that the dataset is clean, balanced, and suitable for machine learning classification tasks. The findings can support the development of effective phishing website detection models.
+
+Repository Structure
